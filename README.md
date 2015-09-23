@@ -9,7 +9,7 @@ user profiles, specifying input parameters, and associate them to games.
 Structure
 =============
 
-MovePong is developed using the [uOS middleware](https://github.com/UnBiquitous/uos_core/) as well as the
+The Control Panel is developed using the [uOS middleware](https://github.com/UnBiquitous/uos_core/) as well as the
 [unbihealth framework](https://github.com/lhsantos/unbihealth-core/) for health focused ubigame development.
 
 The whole project is available in the `src` folder.
